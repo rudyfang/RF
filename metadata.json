@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Christian Pastor V1",
+  "description": "A scripture-grounded guide and discussion partner for exploring the Old and New Testaments across Catholic, Protestant, and historical Christian traditions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
